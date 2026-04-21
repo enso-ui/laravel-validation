@@ -1,11 +1,11 @@
 {
   "name": "@enso-ui/laravel-validation",
   "version": "3.1.0",
-  "description": "Laravel Validation",
+  "description": "Laravel-style validation error bag for Enso UI forms",
   "main": "src/Errors.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/@enso-ui/laravel-validation.git"
+    "url": "git+https://github.com/enso-ui/laravel-validation.git"
   },
   "keywords": [
     "laravel-validation",
@@ -14,8 +14,8 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/@enso-ui/laravel-validation/issues"
+    "url": "https://github.com/enso-ui/laravel-validation/issues"
   },
-  "homepage": "https://github.com/@enso-ui/laravel-validation#readme",
+  "homepage": "https://github.com/enso-ui/laravel-validation#readme",
   "dependencies": {}
 }
